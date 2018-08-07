@@ -1,4 +1,4 @@
-package demos.hello_world_created_by_ide;
+package demos;
 
 import org.junit.Test;
 

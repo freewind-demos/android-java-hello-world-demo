@@ -1,4 +1,4 @@
-package demos.hello_world_created_by_ide;
+package demos;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("demos.hello_world_created_by_ide", appContext.getPackageName());
+        assertEquals("demos", appContext.getPackageName());
     }
 }

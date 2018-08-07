@@ -1,4 +1,4 @@
-package demos.hello_world_created_by_ide;
+package demos;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package demos;
+package demos.android.java.hello.world.demo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
